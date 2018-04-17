@@ -32,4 +32,8 @@ Here are some of bonuses:
 
 My game looks like this:
 
-![](https://github.com/tt1m0n/Space_Shooter/blob/master/SpaceShooter.gif)
+![](https://github.com/tt1m0n/Space_Shooter/blob/master/rush00_1.gif)
+
+![](https://github.com/tt1m0n/Space_Shooter/blob/master/rush01_2.gif)
+
+![](https://github.com/tt1m0n/Space_Shooter/blob/master/rush00_3.gif)
