@@ -1,4 +1,4 @@
-Assignment 42_school. Rush00.
+# Assignment 42_school. Rush00.
 
 • Classes will have to be in Coplien’s form, without us asking. It’s a pre-requisite to have a positive grade. Be thorough.
 
